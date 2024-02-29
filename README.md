@@ -38,6 +38,10 @@ This notebook empowers you to streamline your email workflow by leveraging the p
 
 * This notebook is intended for people with basic knowledge of Python and data analysis.
 * The code and analyses can be modified and adapted to different datasets and research objectives.
+
+**Contents**:
+Notebook 1: Introduction, data analysis, topic modeling
+Notebook 2: Customer issue classification, model selection, parameter optimization
   
 **Tags**:
 
