@@ -43,6 +43,10 @@ This notebook empowers you to streamline your email workflow by leveraging the p
 
 * Notebook 1: Introduction, data analysis, topic modeling
 * Notebook 2: Customer issue classification, model selection, parameter optimization
+
+**Important Notice**:
+
+The data used in this project is real and was collected from actual email inboxes. Due to this, some content in the notebook cannot be shared publicly to protect the privacy and confidentiality of the individuals involved.
   
 **Tags**:
 
