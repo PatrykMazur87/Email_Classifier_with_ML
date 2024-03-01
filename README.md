@@ -1,7 +1,7 @@
 # Automate Your Workflow: Email Classification with Machine Learning
 **Description**:
 
-This notebook empowers you to streamline your email workflow by leveraging the power of machine learning for email classification.
+This notebooks empowers you to streamline your email workflow by leveraging the power of machine learning for email classification.
 
 **Key Features**:
 
